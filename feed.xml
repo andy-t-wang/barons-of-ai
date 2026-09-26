@@ -23,6 +23,15 @@
     <link>https://andy-t-wang.github.io/barons-of-ai/feed.xml</link>
   </image>
   <item>
+    <title>Liang Wenfeng and DeepSeek</title>
+    <description>The quant trader who stockpiled ten thousand AI chips before anyone knew why, gave the models away for free, and accidentally started a price war that humiliated every tech giant in China. The story of DeepSeek's Liang Wenfeng - patience as strategy.</description>
+    <enclosure url="https://andy-t-wang.github.io/barons-of-ai/episodes/liang-wenfeng-deepseek.mp3" length="8423845" type="audio/mpeg"/>
+    <guid isPermaLink="false">barons-of-ai:liang-wenfeng-deepseek-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:51:14 +0000</pubDate>
+    <itunes:duration>1052</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Greg Jackson and Octopus Energy</title>
     <description>A Founders-style deep dive into Greg Jackson, who started Octopus Energy in 2016 and built it into Britain's largest energy supplier, with the Kraken software platform spun out at an .65B valuation. Seven lessons from his life and decisions.</description>
     <enclosure url="https://andy-t-wang.github.io/barons-of-ai/episodes/greg-jackson-and-octopus-energy.mp3" length="6825253" type="audio/mpeg"/>
