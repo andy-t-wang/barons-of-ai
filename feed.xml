@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>The Barons of AI</title>
   <description>Founder stories from the intelligence age. The Barons of AI tells the life stories of the people building the AI era — the founders, engineers, and iconoclasts turning research into industries. Each episode goes deep on one builder: where they came from, the decisions that mattered, and the lessons worth stealing. For anyone who wants to understand how the future gets built.</description>
@@ -30,6 +30,7 @@
     <pubDate>Sat, 26 Sep 2026 02:51:14 +0000</pubDate>
     <itunes:duration>1052</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <podcast:chapters url="https://andy-t-wang.github.io/barons-of-ai/chapters/liang-wenfeng-deepseek.json" type="application/json+chapters"/>
   </item>
   <item>
     <title>Greg Jackson and Octopus Energy</title>
@@ -39,6 +40,7 @@
     <pubDate>Sat, 26 Sep 2026 01:42:41 +0000</pubDate>
     <itunes:duration>853</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <podcast:chapters url="https://andy-t-wang.github.io/barons-of-ai/chapters/greg-jackson-and-octopus-energy.json" type="application/json+chapters"/>
   </item>
 </channel>
 </rss>
