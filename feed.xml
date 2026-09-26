@@ -2,9 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>The Barons of AI</title>
-  <description>Founder stories from the intelligence age. Founder stories from the intelligence age. The Barons of AI tells the life stories of the people building the AI era — the founders, engineers, and iconoclasts turning research into industries. Each episode goes deep on one builder: where they came from, the decisions that mattered, and the lessons worth stealing. For anyone who wants to understand how the future gets built.
-
-AI Generated</description>
+  <description>Founder stories from the intelligence age. The Barons of AI tells the life stories of the people building the AI era — the founders, engineers, and iconoclasts turning research into industries. Each episode goes deep on one builder: where they came from, the decisions that mattered, and the lessons worth stealing. For anyone who wants to understand how the future gets built.</description>
   <link>https://andy-t-wang.github.io/barons-of-ai/feed.xml</link>
   <language>en</language>
   <itunes:author>The Barons of AI</itunes:author>
@@ -13,22 +11,20 @@ AI Generated</description>
     <itunes:email>andywang2002@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:explicit>false</itunes:explicit>
-  <itunes:image href="https://muse.ai/podcasts/media/459950363859789/e8637ed8-f612-49dd-85ef-20604f89c4d3/cover.png"/>
+  <itunes:image href="https://andy-t-wang.github.io/barons-of-ai/cover.jpg"/>
   <itunes:category text="Business">
     <itunes:category text="Entrepreneurship"/>
   </itunes:category>
   <itunes:category text="Technology"/>
   <atom:link href="https://andy-t-wang.github.io/barons-of-ai/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
-    <url>https://muse.ai/podcasts/media/459950363859789/e8637ed8-f612-49dd-85ef-20604f89c4d3/cover.png</url>
+    <url>https://andy-t-wang.github.io/barons-of-ai/cover.jpg</url>
     <title>The Barons of AI</title>
     <link>https://andy-t-wang.github.io/barons-of-ai/feed.xml</link>
   </image>
   <item>
     <title>Greg Jackson and Octopus Energy</title>
-    <description>A Founders-style deep dive into Greg Jackson, who started Octopus Energy in 2016 and built it into Britain's largest energy supplier, with the Kraken software platform spun out at an .65B valuation. Seven lessons from his life and decisions.
-
-AI Generated</description>
+    <description>A Founders-style deep dive into Greg Jackson, who started Octopus Energy in 2016 and built it into Britain's largest energy supplier, with the Kraken software platform spun out at an .65B valuation. Seven lessons from his life and decisions.</description>
     <enclosure url="https://muse.ai/podcasts/media/459950363859789/e8637ed8-f612-49dd-85ef-20604f89c4d3/ep-ad079b14-a777-47ce-a41c-462a7dbabf17.mp3" length="6024997" type="audio/mpeg"/>
     <guid isPermaLink="false">barons-of-ai:greg-jackson-and-octopus-energy-2026-09-26</guid>
     <pubDate>Sat, 26 Sep 2026 01:42:41 +0000</pubDate>
