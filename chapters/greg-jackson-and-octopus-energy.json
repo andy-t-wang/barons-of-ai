@@ -1,0 +1,61 @@
+{
+  "version": "1.2.0",
+  "podcastName": "The Barons of AI",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "The Most Hated Industry",
+      "toc": true
+    },
+    {
+      "startTime": 53,
+      "title": "The Milk Round",
+      "toc": true
+    },
+    {
+      "startTime": 179,
+      "title": "Two Sparks",
+      "toc": true
+    },
+    {
+      "startTime": 265,
+      "title": "Building Kraken",
+      "toc": true
+    },
+    {
+      "startTime": 350,
+      "title": "Licensing to the Enemy",
+      "toc": true
+    },
+    {
+      "startTime": 422,
+      "title": "Nine Billion in Four Years",
+      "toc": true
+    },
+    {
+      "startTime": 466,
+      "title": "The Bulb Heist",
+      "toc": true
+    },
+    {
+      "startTime": 569,
+      "title": "Number One",
+      "toc": true
+    },
+    {
+      "startTime": 599,
+      "title": "Fairness as Strategy",
+      "toc": true
+    },
+    {
+      "startTime": 702,
+      "title": "Seven Lessons",
+      "toc": true
+    },
+    {
+      "startTime": 828,
+      "title": "The Customer",
+      "toc": true
+    }
+  ]
+}

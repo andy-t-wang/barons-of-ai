@@ -1,0 +1,36 @@
+{
+  "version": "1.2.0",
+  "podcastName": "The Barons of AI",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Sputnik Moment",
+      "toc": true
+    },
+    {
+      "startTime": 76,
+      "title": "A Fifth-Tier Childhood",
+      "toc": true
+    },
+    {
+      "startTime": 226,
+      "title": "The Quant Years",
+      "toc": true
+    },
+    {
+      "startTime": 425,
+      "title": "Buying the Piano",
+      "toc": true
+    },
+    {
+      "startTime": 837,
+      "title": "What Is Worth Stealing",
+      "toc": true
+    },
+    {
+      "startTime": 1034,
+      "title": "Epitaph",
+      "toc": true
+    }
+  ]
+}
