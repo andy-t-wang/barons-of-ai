@@ -1,36 +1,36 @@
 {
-  "version": "1.2.0",
-  "podcastName": "The Barons of AI",
-  "chapters": [
-    {
-      "startTime": 0.0,
-      "title": "The Apology",
-      "toc": true
-    },
-    {
-      "startTime": 77.528,
-      "title": "Escape Velocity",
-      "toc": true
-    },
-    {
-      "startTime": 264.608,
-      "title": "Napkins",
-      "toc": true
-    },
-    {
-      "startTime": 453.944,
-      "title": "Push, Don't Search",
-      "toc": true
-    },
-    {
-      "startTime": 621.716,
-      "title": "The Other Four-Fifths",
-      "toc": true
-    },
-    {
-      "startTime": 837.332,
-      "title": "Daydreams",
-      "toc": true
-    }
-  ]
+    "version": "1.2.0",
+    "podcastName": "The Barons of AI",
+    "chapters": [
+        {
+            "startTime": 0.0,
+            "title": "The Apology",
+            "toc": true
+        },
+        {
+            "startTime": 83.477,
+            "title": "Escape Velocity",
+            "toc": true
+        },
+        {
+            "startTime": 270.557,
+            "title": "Napkins",
+            "toc": true
+        },
+        {
+            "startTime": 459.893,
+            "title": "Push, Don't Search",
+            "toc": true
+        },
+        {
+            "startTime": 627.665,
+            "title": "The Other Four-Fifths",
+            "toc": true
+        },
+        {
+            "startTime": 843.281,
+            "title": "Daydreams",
+            "toc": true
+        }
+    ]
 }
