@@ -1,36 +1,28 @@
 {
-    "version": "1.2.0",
-    "podcastName": "The Barons of AI",
-    "chapters": [
-        {
-            "startTime": 0.0,
-            "title": "The Four-Minute Yes",
-            "toc": true
-        },
-        {
-            "startTime": 115.026,
-            "title": "The Ghost",
-            "toc": true
-        },
-        {
-            "startTime": 580.878,
-            "title": "Unhedged",
-            "toc": true
-        },
-        {
-            "startTime": 732.03,
-            "title": "The Machine",
-            "toc": true
-        },
-        {
-            "startTime": 1079.071,
-            "title": "The Ledger",
-            "toc": true
-        },
-        {
-            "startTime": 1298.671,
-            "title": "Vee-Tol",
-            "toc": true
-        }
-    ]
+  "chapters": [
+    {
+      "title": "The Four-Minute Yes",
+      "start": 0.0
+    },
+    {
+      "title": "The Ghost",
+      "start": 115.026
+    },
+    {
+      "title": "Unhedged",
+      "start": 295.262
+    },
+    {
+      "title": "The Machine",
+      "start": 446.414
+    },
+    {
+      "title": "The Ledger",
+      "start": 793.455
+    },
+    {
+      "title": "Vee-Tol",
+      "start": 1013.055
+    }
+  ]
 }
