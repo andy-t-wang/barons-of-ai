@@ -1,0 +1,36 @@
+{
+  "chapters": [
+    {
+      "title": "The Last Wallet",
+      "start": 0.0
+    },
+    {
+      "title": "The Office Boy",
+      "start": 86.634
+    },
+    {
+      "title": "The First Night",
+      "start": 219.69
+    },
+    {
+      "title": "The Load Factor",
+      "start": 423.786
+    },
+    {
+      "title": "The Pyramid",
+      "start": 615.318
+    },
+    {
+      "title": "The Fall",
+      "start": 828.834
+    },
+    {
+      "title": "The Ledger",
+      "start": 1061.946
+    },
+    {
+      "title": "Epitaph",
+      "start": 1209.81
+    }
+  ]
+}
