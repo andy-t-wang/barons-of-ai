@@ -23,6 +23,26 @@
     <link>https://andy-t-wang.github.io/barons-of-ai/feed.xml</link>
   </image>
   <item>
+    <title>Samuel Insull</title>
+    <description>A Founders-style biography of Samuel Insull — Edison's private secretary who invented the modern electric utility, built Commonwealth Edison into the world's largest power system, and constructed a $3B holding-company empire. From 20-cent electricity to two and a half cents: load-factor pricing, the streetcar strategy, the 1929 collapse, the flight to Greece and Turkey, the 1934 mail-fraud acquittal in five minutes, and the death on the Paris Metro stairs — with five lessons on utilization, scale, and financial structure.
+
+Chapters:
+(00:00) The Last Wallet
+(01:27) The Office Boy
+(03:40) The First Night
+(07:04) The Load Factor
+(10:15) The Pyramid
+(13:49) The Fall
+(17:42) The Ledger
+(20:10) Epitaph</description>
+    <enclosure url="https://andy-t-wang.github.io/barons-of-ai/episodes/samuel-insull.mp3" length="20164066" type="audio/mpeg"/>
+    <guid isPermaLink="false">barons-of-ai:samuel-insull-2026-10-18</guid>
+    <pubDate>Sun, 18 Oct 2026 18:58:23 +0000</pubDate>
+    <itunes:duration>1260</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:chapters url="https://andy-t-wang.github.io/barons-of-ai/chapters/samuel-insull.json" type="application/json+chapters"/>
+  </item>
+  <item>
     <title>Gianluigi Aponte and MSC</title>
     <description>A Founders-style biography of Gianluigi Aponte, founder of MSC — the world's largest container shipping line. From a single secondhand freighter bought with a bank loan in 1970 to 7.3M TEU and 21.5% of global capacity: the captain who never gave an interview, the 2022 overtake of Maersk, the $1.3B cocaine seizure aboard the MSC Gayane, the cruise and ports empire — and five lessons on buying used and staying private.
 
