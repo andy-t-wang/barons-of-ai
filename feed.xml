@@ -23,6 +23,29 @@
     <link>https://andy-t-wang.github.io/barons-of-ai/feed.xml</link>
   </image>
   <item>
+    <title>Charles Rasp and BHP</title>
+    <description>A Founders-style biography of BHP — the Big Australian, the world's largest mining company by market value. From a boundary rider's one-pound-a-week claim at Broken Hill in 1883 and the Syndicate of Seven to the biggest copper miner on earth: Charles Rasp's tin hill that was really the largest silver-lead-zinc deposit ever found, Essington Lewis building the Newcastle steelworks and running Australia's wartime munitions, Bass Strait oil and Pilbara iron ore, the Holmes à Court takeover raid, Escondida — the hidden Chilean copper giant found by a drilling program's last hole — the 2001 Billiton merger, the failed Rio Tinto and PotashCorp bids, the twenty-billion-dollar US shale confession, the South32 demerger, the Samarco dam disaster and its settlement, and the copper-and-potash BHP of Mike Henry — with lessons on observation, the last drill hole, and saying 'we paid too much' out loud.
+
+Chapters:
+(00:00) The Mud
+(02:24) A Pound a Week
+(05:49) Thirty Pounds
+(09:26) I Am Work
+(13:51) Kingfish
+(16:17) The Flea and the Elephant
+(19:20) Hidden
+(22:38) The Confession
+(27:48) The Reckoning
+(31:28) The Ledger
+(34:35) The Big Australian</description>
+    <enclosure url="https://andy-t-wang.github.io/barons-of-ai/episodes/bhp-the-big-australian.mp3" length="21943425" type="audio/mpeg"/>
+    <guid isPermaLink="false">barons-of-ai:bhp-the-big-australian-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 23:13:14 +0000</pubDate>
+    <itunes:duration>2194</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:chapters url="https://andy-t-wang.github.io/barons-of-ai/chapters/bhp-the-big-australian.json" type="application/json+chapters"/>
+  </item>
+  <item>
     <title>Samuel Insull</title>
     <description>A Founders-style biography of Samuel Insull — Edison's private secretary who invented the modern electric utility, built Commonwealth Edison into the world's largest power system, and constructed a $3B holding-company empire. From 20-cent electricity to two and a half cents: load-factor pricing, the streetcar strategy, the 1929 collapse, the flight to Greece and Turkey, the 1934 mail-fraud acquittal in five minutes, and the death on the Paris Metro stairs — with five lessons on utilization, scale, and financial structure.
 
